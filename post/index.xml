@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on VMP&#39;s portfolio</title>
+    <link>http://vanminhpham.org/post/</link>
+    <description>Recent content in Posts on VMP&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Oct 2022 20:41:00 +0200</lastBuildDate><atom:link href="http://vanminhpham.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content 1</title>
+      <link>http://vanminhpham.org/content-1/</link>
+      <pubDate>Tue, 25 Oct 2022 20:41:00 +0200</pubDate>
+      
+      <guid>http://vanminhpham.org/content-1/</guid>
+      <description>Is this the real life?</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://vanminhpham.org/hello-world/</link>
+      <pubDate>Tue, 25 Oct 2022 17:12:36 +0200</pubDate>
+      
+      <guid>http://vanminhpham.org/hello-world/</guid>
+      <description> What am I doing??? Pretty sure I&amp;rsquo;m supposed to post something </description>
+    </item>
+    
+  </channel>
+</rss>
