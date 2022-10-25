@@ -9,20 +9,38 @@
     <lastBuildDate>Tue, 25 Oct 2022 20:41:00 +0200</lastBuildDate><atom:link href="https://vanminhpham.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content</title>
-      <link>https://vanminhpham.github.io/content-1/</link>
+      <link>https://vanminhpham.github.io/post/content-1/</link>
       <pubDate>Tue, 25 Oct 2022 20:41:00 +0200</pubDate>
       
-      <guid>https://vanminhpham.github.io/content-1/</guid>
+      <guid>https://vanminhpham.github.io/post/content-1/</guid>
       <description>Is this the real life?</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://vanminhpham.github.io/hello-world/</link>
+      <link>https://vanminhpham.github.io/post/hello-world/</link>
       <pubDate>Tue, 25 Oct 2022 17:12:36 +0200</pubDate>
       
-      <guid>https://vanminhpham.github.io/hello-world/</guid>
+      <guid>https://vanminhpham.github.io/post/hello-world/</guid>
       <description> What am I doing??? Pretty sure I&amp;rsquo;m supposed to post something </description>
+    </item>
+    
+    <item>
+      <title>Gemji</title>
+      <link>https://vanminhpham.github.io/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://vanminhpham.github.io/portfolio/work2/</guid>
+      <description>&lt;p&gt;Puzzle game in which the player moves magical gems across a board.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Qubi</title>
+      <link>https://vanminhpham.github.io/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://vanminhpham.github.io/portfolio/work1/</guid>
+      <description>&lt;p&gt;Cube moving puzzle game made using an own engine written in Vulkan.&lt;/p&gt;</description>
     </item>
     
   </channel>
