@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vanminhpham.github.io/portfolio/work2/</loc>
+    <lastmod>2022-10-27T10:38:20+02:00</lastmod>
+  </url><url>
+    <loc>https://vanminhpham.github.io/portfolio/</loc>
+    <lastmod>2022-10-27T10:38:20+02:00</lastmod>
+  </url><url>
+    <loc>https://vanminhpham.github.io/</loc>
+    <lastmod>2022-10-27T10:38:20+02:00</lastmod>
+  </url><url>
+    <loc>https://vanminhpham.github.io/portfolio/work1/</loc>
+    <lastmod>2022-10-27T10:37:50+02:00</lastmod>
+  </url><url>
     <loc>https://vanminhpham.github.io/post/content-1/</loc>
     <lastmod>2022-10-25T20:41:00+02:00</lastmod>
   </url><url>
     <loc>https://vanminhpham.github.io/post/</loc>
-    <lastmod>2022-10-25T20:41:00+02:00</lastmod>
-  </url><url>
-    <loc>https://vanminhpham.github.io/</loc>
     <lastmod>2022-10-25T20:41:00+02:00</lastmod>
   </url><url>
     <loc>https://vanminhpham.github.io/post/hello-world/</loc>
@@ -16,15 +25,6 @@
   </url><url>
     <loc>https://vanminhpham.github.io/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url><url>
-    <loc>https://vanminhpham.github.io/portfolio/work2/</loc>
-    <lastmod>2016-11-05T18:25:22+02:00</lastmod>
-  </url><url>
-    <loc>https://vanminhpham.github.io/portfolio/</loc>
-    <lastmod>2016-11-05T18:25:22+02:00</lastmod>
-  </url><url>
-    <loc>https://vanminhpham.github.io/portfolio/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+02:00</lastmod>
   </url><url>
     <loc>https://vanminhpham.github.io/about/</loc>
   </url><url>
